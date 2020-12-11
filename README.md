@@ -18,4 +18,8 @@ HTML 5 CSS (locally via styling.css) CSS (remotely via Bootstrap HTTPS link) Jav
 
 Code was written using VS Code and tested on Apache webserver running on a Raspberry Pi before committing to Gitbub repository.
 
-### Page faceplates:
+### Links
+
+https://geckogrpautomation.github.io/calendar/
+
+### Page faceplate:
