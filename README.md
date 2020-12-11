@@ -14,6 +14,7 @@ The technolgies employed on this website were:
 
 HTML 5 CSS (locally via styling.css) CSS (remotely via Bootstrap HTTPS link) Javascript (remotely via Bootstrap HTTPS link)
 
+Format: ![Work Day Scheduler](https://github.com/geckogrpautomation/calendar.github.io/blob/main/images/calFaceplate.png)
 ![Work Day Scheduler] (https://github.com/geckogrpautomation/calendar.github.io/blob/main/images/calFaceplate.png)
 
 Code was written using VS Code and tested on Apache webserver running on a Raspberry Pi before committing to Gitbub repository.
